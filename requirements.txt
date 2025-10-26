@@ -1,0 +1,7 @@
+PySide6
+pyautogui
+sounddevice
+numpy
+python-vlc
+pyexcel-ods3
+soundfile

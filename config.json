@@ -1,0 +1,15 @@
+{
+  "dial_click_x": 0,
+  "dial_click_y": 0,
+  "hang_click_x": 0,
+  "hang_click_y": 0,
+  "use_auto_hang": true,
+  "audio_backend": "VLC",
+  "dtmf_target": "2233",
+  "dtmf_timeout_s": 30.0,
+  "wait_after_dial_s": 2.0,
+  "wait_before_audio_s": 1.0,
+  "call_timeout_s": 30.0,
+  "loop_delay_s": 1.5,
+  "spreadsheet_path": "sample.ods"
+}
